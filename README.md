@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Typescript, Nodejs, Java, Python ETC.**
 
-- 📫 How to reach me **camilogomez154@gmail.com**
+- 📫 How to reach me **kmilogomez154@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
